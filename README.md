@@ -31,11 +31,6 @@ Fundador do Assisnew, transformando tecnologia em resultados reais para empresas
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovannyLuiz&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-blue" />
-  <img src="https://img.shields.io/badge/Business-Management-green" />
-  <img src="https://img.shields.io/badge/SaaS-Assisnew-orange" />
-</p>
 
 ## 🌎 Onde me encontrar
 <p align="center">
@@ -45,4 +40,10 @@ Fundador do Assisnew, transformando tecnologia em resultados reais para empresas
   <a href="https://wa.me/+5511945906250">
     <img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
+</p>
+</br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-blue" />
+  <img src="https://img.shields.io/badge/Business-Management-green" />
+  <img src="https://img.shields.io/badge/SaaS-Assisnew-orange" />
 </p>
