@@ -8,22 +8,25 @@
 
 <p align="center">
   <!-- Linguagens -->
-  <img src="https://skillicons.dev/icons?i=php,java,cs,cpp,ts,js,nodejs,html,css" />
+  <img src="https://skillicons.dev/icons?i=php,java,cs,cpp,ts,js,python" />
   <br/>
-  <!-- Bancos de Dados -->
+  <!-- Frameworks -->
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,nextjs,vue" />
+  <br/>
+  <!-- Bancos -->
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
   <br/>
-  <!-- Outros -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+  <!-- Ferramentas -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
 </p>
 
 ---
-
+  
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeovannyLuiz&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovannyLuiz&layout=compact&langs_count=8&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeovannyLuiz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovannyLuiz&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---
