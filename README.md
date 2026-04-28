@@ -1,7 +1,10 @@
 <!-- Banner ou frase de impacto -->
 <h1 align="center">👨‍💻 Olá, eu sou o Geovanny Luiz</h1>
-<p align="center">Desenvolvedor de Sistemas | Apaixonado por tecnologia e inovação 🚀</p>
-
+<p align="center">
+Desenvolvedor Web & Especialista em Gestão Empresarial 🚀<br/>
+Especialista em desenvolvimento de sistemas e gestão empresarial, criando soluções que automatizam processos, aumentam a produtividade e impulsionam o crescimento de negócios.<br/>
+Fundador do Assisnew, transformando tecnologia em resultados reais para empresas
+</p>
 ---
 
 ## 🚀 Tecnologias & Ferramentas
